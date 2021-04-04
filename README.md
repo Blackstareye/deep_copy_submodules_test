@@ -4,7 +4,8 @@
 <p align="center">
   <a href="https://github.com/Blackeye/deep_copy_submodules">
     <img src="img/Testing_Logo.png" alt="Logo" width="100" height="108">
-  </a>
+</a>
+</p>
 
 this repo contains the testing that is done for the project [Deep Copy Submodules](todo)
 
