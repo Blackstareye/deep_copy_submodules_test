@@ -1,0 +1,7 @@
+.vscode/*
+*.log
+tmp.ini
+report/*.params
+workspace.code-workspace
+report/test_parse_ini_result.tst
+tmp.file
