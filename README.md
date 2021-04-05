@@ -54,3 +54,8 @@ bash integration_test.sh [-s]
 ## TestCoverage
 
 see [Testcoverage](testcoverage.md)
+
+## License
+Distributed under the GPL version 3. See `LICENSE` for more information.
+
+Images are licensed under the License [Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
